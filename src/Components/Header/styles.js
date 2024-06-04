@@ -18,7 +18,7 @@ align-items: center;
 justify-content: space-between;
 height: 100%;
 max-width: 80%;
-padding: 0 50px;
+padding: 0 15px;
 margin: 0 auto;
 `
 
@@ -34,6 +34,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 gap: 40px;
+margin-right: 20px;
 `
 
 export const ButtonItemMenu = styled.li`

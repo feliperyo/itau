@@ -1,5 +1,5 @@
 
-import ArrowDown from '../assets/arrow-down.svg'
+import ArrowDown from '../../assets/arrow-down.svg'
 import { ButtonItemMenu } from './styles'
 
 export default function ItemMenu({ name }) {

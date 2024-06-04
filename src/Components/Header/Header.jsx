@@ -3,8 +3,8 @@ import * as S from './styles'
 
 import ItemMenu from "./ItemMenu";
 
-import LogoItau from '../assets/logo.svg'
-import IconUser from '../assets/icon-user.svg'
+import LogoItau from '../../assets/logo.svg'
+import IconUser from '../../assets/icon-user.svg'
 
 export default function Header() {
     return (
